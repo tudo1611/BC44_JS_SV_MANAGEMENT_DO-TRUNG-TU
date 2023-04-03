@@ -1,0 +1,5 @@
+array chứ object sinh viên
+findIndex => dùng cho object
+
+splice => xóa 1 phần tử trong array
+forEach
